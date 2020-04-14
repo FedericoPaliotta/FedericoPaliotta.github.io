@@ -1,0 +1,8 @@
+---
+title: Profile
+---
+
+In just few words I'd describe myself as a dreamer, an intense perfectionist, and a software engineer. Above all, I like to think of software development as an art, and of myself, as a bit of an artist. My emphasis, when developing, is on elegance and clarity in the implementation. Decoupling the code and building reusable components. Developing a robust architecture and extensive test coverage, on both functionality and performance, especially considering worst case scenarios.
+I graduated in 2013 from "La Sapienza", The First University of Rome. After graduating with a Bachelor of Science in Computer Science &amp; Information Technology, I decided to leave Italy and move to the US.
+For my graduation thesis project I used a computer vision framework (OpenCV) to build an iOS App that would recognize tree leaves through the live stream of the camera.
+Since then, I've become more interested and increasingly knowledgeable in iOS development, and I’ve had the opportunity to work on the coolest products and with the smartest and most inspiring engineers; as I go on, accruing more experience in building great iOS Apps
